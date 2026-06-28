@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Patrick Gonzalez - Temperature Conversion</string>
+    <string name="txt_title">Temperature Conversion</string>
+    <string name="img_description">Thermometer Image</string>
+    <string name="hint_temp">Enter temperature</string>
+    <string name="rad_f_to_c">Convert °F to °C</string>
+    <string name="rad_c_to_f">Convert °C to °F</string>
+    <string name="btn_convert">Convert Temperature</string>
+    <string name="txt_ranges">Valid ranges: °F (-100 to 250)  |  °C (-75 to 125)</string>
+</resources>
